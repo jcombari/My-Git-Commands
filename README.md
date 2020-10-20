@@ -64,6 +64,10 @@
 * git push -f origin master
 * git config --global credential.helper wincred
 * git config --global credential.helper cache
+* Config file 
+
+    [credential]
+      helper = store
 
 ### Platforms
 
