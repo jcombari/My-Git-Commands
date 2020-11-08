@@ -108,3 +108,7 @@ The following platforms can be used to host your repositories.
 | [GitHub](https://github.com)       | Free  |
 | [GitLab](https://gitlab.com)       | Free  |
 | [Bitbucket](https://bitbucket.org) | Free  |
+
+### Git Markhow
+
+https://guides.github.com/features/mastering-markdown/
