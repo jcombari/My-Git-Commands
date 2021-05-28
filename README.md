@@ -112,3 +112,7 @@ The following platforms can be used to host your repositories.
 ### Git Markhow
 
 https://guides.github.com/features/mastering-markdown/
+
+### Git: Warnings
+
+* **warning: LF will be replaced by CRLF** Solved: git config core.autocrlf true 
