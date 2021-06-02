@@ -65,6 +65,7 @@
 * git config --global credential.helper wincred
 * git config --global credential.helper cache
 * Config file 
+* git log origin/master or git log origin/main 
 
     [credential]
       helper = store
