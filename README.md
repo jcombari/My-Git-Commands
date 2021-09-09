@@ -106,7 +106,7 @@ Is the command-line interface not for you? Try one of the following clients.
 The following platforms can be used to host your repositories.
 | Platform                           | Price |
 | ---------------------------------- | ----- |
-| [GitHub](https://github.com)       | Free  |
+## #| [GitHub](https://github.com)       | Free  |remote: error: GH001: Large files detected.
 | [GitLab](https://gitlab.com)       | Free  |
 | [Bitbucket](https://bitbucket.org) | Free  |
 
@@ -117,3 +117,7 @@ https://guides.github.com/features/mastering-markdown/
 ### Git: Warnings
 
 * **warning: LF will be replaced by CRLF** Solved: git config core.autocrlf true 
+
+### remote: error: GH001: Large files detected.
+
+git commit --amend -C HEAD
