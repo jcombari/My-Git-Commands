@@ -118,6 +118,9 @@ https://guides.github.com/features/mastering-markdown/
 
 * **warning: LF will be replaced by CRLF** Solved: git config core.autocrlf true 
 
-### remote: error: GH001: Large files detected.
+### Git remote: error: GH001: Large files detected.
 
 git commit --amend -C HEAD
+git reset HEAD~1
+git reset HEAD~2
+git reset HEAD~3
