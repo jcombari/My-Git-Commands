@@ -121,6 +121,9 @@ https://guides.github.com/features/mastering-markdown/
 ### Git remote: error: GH001: Large files detected.
 
 git commit --amend -C HEAD
-git reset HEAD~1
-git reset HEAD~2
-git reset HEAD~3
+
+* git reset HEAD~1
+
+* git reset HEAD~2
+
+* git reset HEAD~3
