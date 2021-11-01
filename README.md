@@ -88,6 +88,16 @@ Is the command-line interface not for you? Try one of the following clients.
 | [Source Tree](https://www.sourcetreeapp.com) | Mac and Windows    |
 | [Tower](https://www.git-tower.com)           | MacOS and Windows  |
 
+### Managing environments
+
+* To creare environment: 
+    $ conda create --name research
+* To activate this environment, use
+
+    $ conda activate research
+ 
+* To deactivate an active environment, use
+$ conda deactivate
 ### History
 | Key/Command                | Description                                                      |
 | -------------------------- | ---------------------------------------------------------------- |
