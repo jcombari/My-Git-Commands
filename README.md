@@ -91,13 +91,15 @@ Is the command-line interface not for you? Try one of the following clients.
 ### Managing environments
 
 * To creare environment: 
+  
     $ conda create --name research
 * To activate this environment, use
 
     $ conda activate research
- 
 * To deactivate an active environment, use
-$ conda deactivate
+
+    $ conda deactivate
+* [Clik here for more information](https://conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html#creating-an-environment-with-commands)
 ### History
 | Key/Command                | Description                                                      |
 | -------------------------- | ---------------------------------------------------------------- |
