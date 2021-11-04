@@ -3,8 +3,8 @@
 
 ### Please tell me who you are.
 
-  git config --global user.email "you@example.com"
-  git config --global user.name "Your Name"
+ *  git config --global user.email "you@example.com"
+ * git config --global user.name "Your Name"
  
 ### Getting & Creating Projects
 | Command | Description |
