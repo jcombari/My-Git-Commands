@@ -134,3 +134,9 @@ git commit --amend -C HEAD
 * git reset HEAD~2
 
 * git reset HEAD~3
+
+* **fatal: the remote end hung up unexpectedly** 
+
+git config http.postBuffer 524288000
+
+
