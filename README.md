@@ -68,6 +68,7 @@
 * git add .
 * git status
 * git commit --amend --no-edit --date="Jan 5 17:00:00 2020"
+* git commit -m "FILE NAME" --date "Wed Jan 26 12:00 2025 +0000"
 * git push -f origin master
 * git config --global credential.helper wincred
 * git config --global credential.helper cache
