@@ -69,6 +69,7 @@
 * git status
 * git commit --amend --no-edit --date="Jan 5 17:00:00 2020"
 * git commit -m "FILE NAME" --date "Wed Jan 26 12:00 2025 +0000"
+* GIT_COMMITTER_DATE="2025-02-08T12:00:00+0000"  git commit --date="2025-02-08T12:00:00+0000" -m "20250208_ Audio Rhythm Analysis"
 * git push -f origin master
 * git config --global credential.helper wincred
 * git config --global credential.helper cache
